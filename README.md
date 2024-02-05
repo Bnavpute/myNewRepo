@@ -1,0 +1,2 @@
+# myNewRepo
+basic git commands
